@@ -86,5 +86,3 @@ Well played! You won. 75 is the secret number.
 ## 👩‍💻 Author
 
 **Vaishnavi Yadav**
-
-Just tell me 👍
